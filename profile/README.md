@@ -18,7 +18,7 @@ If you are new to GitHub, just remember these 4 words:
 *💡 Pro-Tip: Download [GitHub Desktop](https://desktop.github.com/) **OR** [VSCode Desktop](https://code.visualstudio.com/). It lets you do everything below by clicking buttons instead of typing scary terminal commands!*
 
 ### 1️⃣ Creating a New Project (Repo)
-1. Click the green **"New"** button at the top right of the organization page.
+1. On the **Repositories** tab, click the green **"New"** button at the top right of the organization page.
 2. **Name** your project (e.g., `hpu-dashboard`).
 3. Check the box to add a **README file**.
 4. Click **Create repository**. Done!
